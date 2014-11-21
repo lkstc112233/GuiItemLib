@@ -1,0 +1,6 @@
+int drawable button_pressed 0x7f020000
+int drawable button_released 0x7f020001
+int drawable invisible 0x7f020002
+int string app_name 0x7f030000
+int style AppBaseTheme 0x7f040000
+int style AppTheme 0x7f040001
